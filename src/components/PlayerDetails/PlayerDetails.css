@@ -1,0 +1,22 @@
+main{
+    color:white;
+    background-color: black;
+    
+}
+header{
+    margin: 20px;
+}
+
+
+.team-details{
+    display: flex;
+   border: 5px solid gold; 
+   background-color: indigo;
+   margin: 50px;
+   justify-content: center;
+}
+
+.gender-img img{
+    height:100px;
+    width: 100px
+}
